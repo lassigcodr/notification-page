@@ -33,5 +33,5 @@ Thanks for checking out this front-end coding challenge.
 
 ## Author
 
-- Frontend Mentor - [@ctrlwisdom](https://www.frontendmentor.io/profile/lassigcodr)
-- Twitter - [@ctrlwisdom](https://www.twitter.com/lassigcodr)
+- Frontend Mentor - [@lassigcodr](https://www.frontendmentor.io/profile/lassigcodr)
+- Twitter - [@lassigcodr](https://www.twitter.com/lassigcodr)
