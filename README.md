@@ -19,8 +19,8 @@ Thanks for checking out this front-end coding challenge.
 
 ### Links
 
-- Solution: [Click here](https://github.com/ctrlwisdom/notification-page)
-- Live Site: [Click here](https://ctrlwisdom.github.io/notification-page/index.html)
+- Solution: [Click here](https://github.com/lassigcodr/notification-page)
+- Live Site: [Click here](https://lassigcodr.github.io/notification-page/index.html)
 
 
 ## My process
@@ -33,5 +33,5 @@ Thanks for checking out this front-end coding challenge.
 
 ## Author
 
-- Frontend Mentor - [@ctrlwisdom](https://www.frontendmentor.io/profile/ctrlwisdom)
-- Twitter - [@ctrlwisdom](https://www.twitter.com/ctrlwisdom)
+- Frontend Mentor - [@ctrlwisdom](https://www.frontendmentor.io/profile/lassigcodr)
+- Twitter - [@ctrlwisdom](https://www.twitter.com/lassigcodr)
